@@ -51,4 +51,14 @@ confirm the correct device. Test safely with a loop device — see docs/.
 - Wire the front-end portal to the backend via a REST API
 
 ## Team
-[names]
+
+**Team WipeSure**
+
+- Tejal Udgave
+- Trupti Mete
+- Mrunmayi Sawant
+- Aakshada Ingale
+- Akanksha Lokhande
+- Ishwari Rautray
+
+Cummins College of Engineering for Women, Pune
